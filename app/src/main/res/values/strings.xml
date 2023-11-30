@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AltSvcWebView</string>
+    <string name="reload">Reload</string>
+</resources>
