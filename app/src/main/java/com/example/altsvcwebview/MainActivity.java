@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         webView.getSettings().setDomStorageEnabled(true);
         webView.getSettings().setJavaScriptEnabled(true);
         WebView.setWebContentsDebuggingEnabled(true);
-        webView.loadUrl("https://www.amazon.in");
+        webView.loadUrl("https://http3.is/");
 
         findViewById(R.id.reload_webview_button).setOnClickListener(view -> {
             webView.reload();
